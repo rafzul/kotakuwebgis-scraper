@@ -2,7 +2,11 @@
 
 # KOTAKU-WebGIS Scraper
 
+<<<<<<< HEAD
 This scraper was build with intention to extracting tables from Kota Tanpa Kumuh WebGIS, courtesy of Ministry of Public Works & Housing (KEMENPUPR) Republic of Indonesia. The web apps and the original tables can be accessed from http://103.12.84.58/webgis/admin/realisasi/provinsi_jabar
+=======
+This scraper was build with intention to help @annisanisita 👍( ͡ᵔ ᴗ ͡ᵔ👍) in extracting tables from Kota Tanpa Kumuh WebGIS, courtesy of Ministry of Public Works & Housing (KEMENPUPR) Republic of Indonesia. The web apps and the original tables can be accessed from http://103.12.84.58/webgis/admin/realisasi/provinsi_jabar
+>>>>>>> parent of fc33210 (gogo)
 
 
 ### Tools
